@@ -1,0 +1,23 @@
+{
+  "name": "2026playwright",
+  "version": "1.0.0",
+  "description": "Playwright testing with Typescript 2026",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcbowen/2026Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bcbowen/2026Playwright/issues"
+  },
+  "homepage": "https://github.com/bcbowen/2026Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
